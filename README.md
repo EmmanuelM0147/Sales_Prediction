@@ -27,7 +27,7 @@ Based on the analysis, it is recommended to prioritize **Radio advertising** for
 
 ## How to Run the Notebook
 This analysis was performed in a Google Colaboratory notebook.
-1.  Open the `Advertising_Budget_vs_Sales_Prediction_Emmanuel_Ok.ipynb` file in Google Colab.
+1.  Open the `Advertising_Budget_vs_Sales_Prediction.ipynb` file in Google Colab.
 2.  Run all cells to replicate the analysis and visualizations.
 
 ## Technologies Used
