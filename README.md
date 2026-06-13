@@ -39,4 +39,4 @@ This analysis was performed in a Google Colaboratory notebook.
 *   scikit-learn (for linear regression modeling)
 
 ## Author
-[Emmanuel Ok](https://github.com/EMMANUELM0147)
+[Emmanuel Okeowo](https://github.com/EMMANUELM0147)
